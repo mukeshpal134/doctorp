@@ -218,7 +218,7 @@ dummy text ever since the 1500s</p>
             <h2 className="font-bold">Owen Evans</h2>
             <p className="w-72 text-[#111827]"> Lorem Ipsum is simply dummy text of the
               printing and typesetting industry. Lorem
-              Ipsum has been the industry s standard
+              Ipsum has been the industrys standard
               dummy text ever since the 1500s</p>
               <div className="flex my-2">
             <img className="w-4 " src={require('./images/star.png') } alt="" />
